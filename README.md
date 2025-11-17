@@ -1,17 +1,14 @@
 <h1 align="center">Hi, I'm Ziad Khaled 👋</h1>
-<h3 align="center">Full Stack Developer | React.js, Node.js, Express.js</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Projects (React + Node.js + Express)**
-- 🌱 I’m learning **Advanced JavaScript, Angular, OOP, Clean Code**
-- 🚀 I use **React, TailwindCSS, TypeScript, Node, Express, MongoDB**
-- 🎯 My goal: **Become a strong Full Stack MERN Developer**
-- 🎓 I graduated from **Modern Academy for CS & IT**
-- 💼 Currently training at **ITI**
-- ⚡ Fun fact: **I love building clean UI and solving UI/UX problems**
+Frontend Engineer with hands-on experience in React.js, Next.js, Angular, and modern UI/UX best practices.
+Skilled in building scalable, mobile-friendly interfaces with optimized performance, asynchronous data handling,
+and cross-browser compatibility.
+Experienced in debugging complex UI issues and collaborating within Agile teams using Git and modern frontend tooling.
 
 ---
 
@@ -32,15 +29,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
 </div>
 
----
 
-## 📌 Featured Projects  
-- 🛒 **Fresh Cart** — React + Tailwind + APIs  
-- 📊 **Dashboard System** — JS + Chart.js  
-- 🍽️ **Yummy App** — Recipes API  
-- 🔐 **Login System** — Auth + Validation  
-- 📚 **Bookmarker** — CRUD System  
-- 🌐 Responsive Templates  
 
 ---
 
