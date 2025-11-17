@@ -26,7 +26,7 @@ Experienced in debugging complex UI issues and collaborating within Agile teams 
 
 ### 🧰 Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
 
 
